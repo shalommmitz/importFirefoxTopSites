@@ -13,7 +13,7 @@ Also, if "Never save history" is active, firefox won't update those sites. This 
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Related Tasks](#Related Tasks)
+- [Related Tasks](#Related-Tasks)
     - [Set Firefox to display the desired number of Top Sites](#Set Firefox to display the desired number of Top Sites)
     - [How to create the "browser.newtabpage.pinned" prefernce](#How to create the "browser.newtabpage.pinned" prefernce)
     - [Usefull Information from Mozilla](#Usefull Information from Mozilla)
